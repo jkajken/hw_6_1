@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">hw_6_1</string>
+    <string name="enter">Enter</string>
+    <string name="press">press</string>
+    <string name="back_btn">Back</string>
+    <string name="fillthefields">Fill the fields</string>
+    <string name="cannotbeempty">Again the same, can not be empty</string>
+</resources>
